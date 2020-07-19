@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+-------------------------------- Steps to Run Project -------------------------------------
+
+1. To install dependencies run command "npm install"
+2. Run the Project by "npm start" command
+
+
 
 ## Available Scripts
 
